@@ -10,9 +10,8 @@ var mongoose = require('mongoose');
 //var MONGODBURL = 'mongodb://localhost/test';
 var MONGODBURL = 'mongodb://psys381f.cloudapp.net:27017/test';
 
-
-//https://aaronpoon@s381fassign.scm.azurewebsites.net:443/s381fassign.git
-//s381fassign.azurewebsites.net
+//https://aaronpoon@s381faaron.scm.azurewebsites.net:443/s381faaron.git
+//s381faaron.azurewebsites.net
 
 var restaurantObj={address: {
         street: "",
